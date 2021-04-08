@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/natalieperrone/Desktop/repos/project-space-lion-api-1/backend/Space.Lion.Domain/Space.Lion.Domain.csproj": {}
+    "C:\\Users\\matt2\\OneDrive\\Desktop\\repos\\project-space-lion-api\\backend\\Space.Lion.Domain\\Space.Lion.Domain.csproj": {}
   },
   "projects": {
-    "/Users/natalieperrone/Desktop/repos/project-space-lion-api-1/backend/Space.Lion.Domain/Space.Lion.Domain.csproj": {
+    "C:\\Users\\matt2\\OneDrive\\Desktop\\repos\\project-space-lion-api\\backend\\Space.Lion.Domain\\Space.Lion.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/natalieperrone/Desktop/repos/project-space-lion-api-1/backend/Space.Lion.Domain/Space.Lion.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\matt2\\OneDrive\\Desktop\\repos\\project-space-lion-api\\backend\\Space.Lion.Domain\\Space.Lion.Domain.csproj",
         "projectName": "Space.Lion.Domain",
-        "projectPath": "/Users/natalieperrone/Desktop/repos/project-space-lion-api-1/backend/Space.Lion.Domain/Space.Lion.Domain.csproj",
-        "packagesPath": "/Users/natalieperrone/.nuget/packages/",
-        "outputPath": "/Users/natalieperrone/Desktop/repos/project-space-lion-api-1/backend/Space.Lion.Domain/obj/",
+        "projectPath": "C:\\Users\\matt2\\OneDrive\\Desktop\\repos\\project-space-lion-api\\backend\\Space.Lion.Domain\\Space.Lion.Domain.csproj",
+        "packagesPath": "C:\\Users\\matt2\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\matt2\\OneDrive\\Desktop\\repos\\project-space-lion-api\\backend\\Space.Lion.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/natalieperrone/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\matt2\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.201/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

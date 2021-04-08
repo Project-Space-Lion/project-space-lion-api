@@ -209,19 +209,19 @@
     ]
   },
   "packageFolders": {
-    "/Users/natalieperrone/.nuget/packages/": {}
+    "C:\\Users\\matt2\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/natalieperrone/Desktop/repos/project-space-lion-api-1/backend/Space.Lion.Api/Space.Lion.Api.csproj",
+      "projectUniqueName": "C:\\Users\\matt2\\OneDrive\\Desktop\\repos\\project-space-lion-api\\backend\\Space.Lion.Api\\Space.Lion.Api.csproj",
       "projectName": "Space.Lion.Api",
-      "projectPath": "/Users/natalieperrone/Desktop/repos/project-space-lion-api-1/backend/Space.Lion.Api/Space.Lion.Api.csproj",
-      "packagesPath": "/Users/natalieperrone/.nuget/packages/",
-      "outputPath": "/Users/natalieperrone/Desktop/repos/project-space-lion-api-1/backend/Space.Lion.Api/obj/",
+      "projectPath": "C:\\Users\\matt2\\OneDrive\\Desktop\\repos\\project-space-lion-api\\backend\\Space.Lion.Api\\Space.Lion.Api.csproj",
+      "packagesPath": "C:\\Users\\matt2\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\matt2\\OneDrive\\Desktop\\repos\\project-space-lion-api\\backend\\Space.Lion.Api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/natalieperrone/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\matt2\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
@@ -233,8 +233,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "/Users/natalieperrone/Desktop/repos/project-space-lion-api-1/backend/Space.Lion.Domain/Space.Lion.Domain.csproj": {
-              "projectPath": "/Users/natalieperrone/Desktop/repos/project-space-lion-api-1/backend/Space.Lion.Domain/Space.Lion.Domain.csproj"
+            "C:\\Users\\matt2\\OneDrive\\Desktop\\repos\\project-space-lion-api\\backend\\Space.Lion.Domain\\Space.Lion.Domain.csproj": {
+              "projectPath": "C:\\Users\\matt2\\OneDrive\\Desktop\\repos\\project-space-lion-api\\backend\\Space.Lion.Domain\\Space.Lion.Domain.csproj"
             }
           }
         }
@@ -272,7 +272,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.201/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -40,8 +40,8 @@ namespace Space.Lion.Api.Controllers
         [HttpPost("{id:int}/ratings")]
         public IActionResult PostRating(int id, [FromBody] Rating rating)
         {
-            var item = new Item("Shirt", Ohio State shirt.", "Nike", 29.99m);
-            item.Id - id;
+            var item = new Item("Shirt", "Ohio State shirt.", "Nike", 29.99m);
+            item.Id = id;
             item.AddRating(rating);
 
             return Ok(item);
