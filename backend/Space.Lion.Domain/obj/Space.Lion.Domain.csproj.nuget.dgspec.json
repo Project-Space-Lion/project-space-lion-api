@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/omi/Documents/School/3610/Labs/Lab4/project-space-lion-api/backend/Space.Lion.Domain/Space.Lion.Domain.csproj": {}
+    "/Users/natalieperrone/Desktop/repos/project-space-lion-api-1/backend/Space.Lion.Domain/Space.Lion.Domain.csproj": {}
   },
   "projects": {
-    "/Users/omi/Documents/School/3610/Labs/Lab4/project-space-lion-api/backend/Space.Lion.Domain/Space.Lion.Domain.csproj": {
+    "/Users/natalieperrone/Desktop/repos/project-space-lion-api-1/backend/Space.Lion.Domain/Space.Lion.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/omi/Documents/School/3610/Labs/Lab4/project-space-lion-api/backend/Space.Lion.Domain/Space.Lion.Domain.csproj",
+        "projectUniqueName": "/Users/natalieperrone/Desktop/repos/project-space-lion-api-1/backend/Space.Lion.Domain/Space.Lion.Domain.csproj",
         "projectName": "Space.Lion.Domain",
-        "projectPath": "/Users/omi/Documents/School/3610/Labs/Lab4/project-space-lion-api/backend/Space.Lion.Domain/Space.Lion.Domain.csproj",
-        "packagesPath": "/Users/omi/.nuget/packages/",
-        "outputPath": "/Users/omi/Documents/School/3610/Labs/Lab4/project-space-lion-api/backend/Space.Lion.Domain/obj/",
+        "projectPath": "/Users/natalieperrone/Desktop/repos/project-space-lion-api-1/backend/Space.Lion.Domain/Space.Lion.Domain.csproj",
+        "packagesPath": "/Users/natalieperrone/.nuget/packages/",
+        "outputPath": "/Users/natalieperrone/Desktop/repos/project-space-lion-api-1/backend/Space.Lion.Domain/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/omi/.nuget/NuGet/NuGet.Config"
+          "/Users/natalieperrone/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pZv40j2niu+TNf6jGYe8lUkFzt+XJrDYDNHreTqj/GeQetNwCh8oz6bECy1m1CoEE7gIsri1ZEO0Drp6ohD6Gg==",
+  "dgSpecHash": "ljNfWDpsBMN3dqZgPBwcSn494goxnG/Bhq9+QQ1cMYMQ5kY2NbOXAaPP4del3Fq/Qq60wHWibUzcbRqh0BhFJA==",
   "success": true,
-  "projectFilePath": "/Users/omi/Documents/School/3610/Labs/Lab4/project-space-lion-api/backend/Space.Lion.Domain/Space.Lion.Domain.csproj",
+  "projectFilePath": "/Users/natalieperrone/Desktop/repos/project-space-lion-api-1/backend/Space.Lion.Domain/Space.Lion.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

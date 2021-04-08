@@ -209,19 +209,19 @@
     ]
   },
   "packageFolders": {
-    "/Users/omi/.nuget/packages/": {}
+    "/Users/natalieperrone/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/omi/Documents/School/3610/Labs/Lab4/project-space-lion-api/backend/Space.Lion.Api/Space.Lion.Api.csproj",
+      "projectUniqueName": "/Users/natalieperrone/Desktop/repos/project-space-lion-api-1/backend/Space.Lion.Api/Space.Lion.Api.csproj",
       "projectName": "Space.Lion.Api",
-      "projectPath": "/Users/omi/Documents/School/3610/Labs/Lab4/project-space-lion-api/backend/Space.Lion.Api/Space.Lion.Api.csproj",
-      "packagesPath": "/Users/omi/.nuget/packages/",
-      "outputPath": "/Users/omi/Documents/School/3610/Labs/Lab4/project-space-lion-api/backend/Space.Lion.Api/obj/",
+      "projectPath": "/Users/natalieperrone/Desktop/repos/project-space-lion-api-1/backend/Space.Lion.Api/Space.Lion.Api.csproj",
+      "packagesPath": "/Users/natalieperrone/.nuget/packages/",
+      "outputPath": "/Users/natalieperrone/Desktop/repos/project-space-lion-api-1/backend/Space.Lion.Api/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/omi/.nuget/NuGet/NuGet.Config"
+        "/Users/natalieperrone/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
@@ -233,8 +233,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "/Users/omi/Documents/School/3610/Labs/Lab4/project-space-lion-api/backend/Space.Lion.Domain/Space.Lion.Domain.csproj": {
-              "projectPath": "/Users/omi/Documents/School/3610/Labs/Lab4/project-space-lion-api/backend/Space.Lion.Domain/Space.Lion.Domain.csproj"
+            "/Users/natalieperrone/Desktop/repos/project-space-lion-api-1/backend/Space.Lion.Domain/Space.Lion.Domain.csproj": {
+              "projectPath": "/Users/natalieperrone/Desktop/repos/project-space-lion-api-1/backend/Space.Lion.Domain/Space.Lion.Domain.csproj"
             }
           }
         }

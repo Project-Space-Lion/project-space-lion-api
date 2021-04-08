@@ -1,15 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "qsNGlwV7zgCYgY+55G2zG6WxY5IdlmRrgoeZVSAEEn/yvpgdY4GyXJusnM49AOL9GHLn/lnBTI9WwCmDIDKK3Q==",
+  "dgSpecHash": "+B9qWA7KQlsLvNiuBRZYwPqZajACKR2mcn1DQV3n5rE/rOAKC1vF88upi2LBqMTWp7V0wIsg06RZH6qhnNnS/g==",
   "success": true,
-  "projectFilePath": "/Users/omi/Documents/School/3610/Labs/Lab4/project-space-lion-api/backend/Space.Lion.Api/Space.Lion.Api.csproj",
+  "projectFilePath": "/Users/natalieperrone/Desktop/repos/project-space-lion-api-1/backend/Space.Lion.Api/Space.Lion.Api.csproj",
   "expectedPackageFiles": [
-    "/Users/omi/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
-    "/Users/omi/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
-    "/Users/omi/.nuget/packages/swashbuckle.aspnetcore/5.6.3/swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
-    "/Users/omi/.nuget/packages/swashbuckle.aspnetcore.swagger/5.6.3/swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
-    "/Users/omi/.nuget/packages/swashbuckle.aspnetcore.swaggergen/5.6.3/swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
-    "/Users/omi/.nuget/packages/swashbuckle.aspnetcore.swaggerui/5.6.3/swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+    "/Users/natalieperrone/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/natalieperrone/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/natalieperrone/.nuget/packages/swashbuckle.aspnetcore/5.6.3/swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "/Users/natalieperrone/.nuget/packages/swashbuckle.aspnetcore.swagger/5.6.3/swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "/Users/natalieperrone/.nuget/packages/swashbuckle.aspnetcore.swaggergen/5.6.3/swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "/Users/natalieperrone/.nuget/packages/swashbuckle.aspnetcore.swaggerui/5.6.3/swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
   ],
   "logs": []
 }
