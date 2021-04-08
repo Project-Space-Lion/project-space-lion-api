@@ -1,0 +1,12 @@
+/Users/omi/Documents/School/3610/Labs/Lab4/project-space-lion-api/backend/Space.Lion.Domain/bin/Debug/net5.0/Space.Lion.Domain.deps.json
+/Users/omi/Documents/School/3610/Labs/Lab4/project-space-lion-api/backend/Space.Lion.Domain/bin/Debug/net5.0/Space.Lion.Domain.dll
+/Users/omi/Documents/School/3610/Labs/Lab4/project-space-lion-api/backend/Space.Lion.Domain/bin/Debug/net5.0/ref/Space.Lion.Domain.dll
+/Users/omi/Documents/School/3610/Labs/Lab4/project-space-lion-api/backend/Space.Lion.Domain/bin/Debug/net5.0/Space.Lion.Domain.pdb
+/Users/omi/Documents/School/3610/Labs/Lab4/project-space-lion-api/backend/Space.Lion.Domain/obj/Debug/net5.0/Space.Lion.Domain.csprojAssemblyReference.cache
+/Users/omi/Documents/School/3610/Labs/Lab4/project-space-lion-api/backend/Space.Lion.Domain/obj/Debug/net5.0/Space.Lion.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/omi/Documents/School/3610/Labs/Lab4/project-space-lion-api/backend/Space.Lion.Domain/obj/Debug/net5.0/Space.Lion.Domain.AssemblyInfoInputs.cache
+/Users/omi/Documents/School/3610/Labs/Lab4/project-space-lion-api/backend/Space.Lion.Domain/obj/Debug/net5.0/Space.Lion.Domain.AssemblyInfo.cs
+/Users/omi/Documents/School/3610/Labs/Lab4/project-space-lion-api/backend/Space.Lion.Domain/obj/Debug/net5.0/Space.Lion.Domain.csproj.CoreCompileInputs.cache
+/Users/omi/Documents/School/3610/Labs/Lab4/project-space-lion-api/backend/Space.Lion.Domain/obj/Debug/net5.0/Space.Lion.Domain.dll
+/Users/omi/Documents/School/3610/Labs/Lab4/project-space-lion-api/backend/Space.Lion.Domain/obj/Debug/net5.0/ref/Space.Lion.Domain.dll
+/Users/omi/Documents/School/3610/Labs/Lab4/project-space-lion-api/backend/Space.Lion.Domain/obj/Debug/net5.0/Space.Lion.Domain.pdb

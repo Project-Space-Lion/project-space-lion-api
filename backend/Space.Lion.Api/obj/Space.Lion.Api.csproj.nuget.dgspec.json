@@ -1,0 +1,125 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/omi/Documents/School/3610/Labs/Lab4/project-space-lion-api/backend/Space.Lion.Api/Space.Lion.Api.csproj": {}
+  },
+  "projects": {
+    "/Users/omi/Documents/School/3610/Labs/Lab4/project-space-lion-api/backend/Space.Lion.Api/Space.Lion.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/omi/Documents/School/3610/Labs/Lab4/project-space-lion-api/backend/Space.Lion.Api/Space.Lion.Api.csproj",
+        "projectName": "Space.Lion.Api",
+        "projectPath": "/Users/omi/Documents/School/3610/Labs/Lab4/project-space-lion-api/backend/Space.Lion.Api/Space.Lion.Api.csproj",
+        "packagesPath": "/Users/omi/.nuget/packages/",
+        "outputPath": "/Users/omi/Documents/School/3610/Labs/Lab4/project-space-lion-api/backend/Space.Lion.Api/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/omi/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/Users/omi/Documents/School/3610/Labs/Lab4/project-space-lion-api/backend/Space.Lion.Domain/Space.Lion.Domain.csproj": {
+                "projectPath": "/Users/omi/Documents/School/3610/Labs/Lab4/project-space-lion-api/backend/Space.Lion.Domain/Space.Lion.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/omi/Documents/School/3610/Labs/Lab4/project-space-lion-api/backend/Space.Lion.Domain/Space.Lion.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/omi/Documents/School/3610/Labs/Lab4/project-space-lion-api/backend/Space.Lion.Domain/Space.Lion.Domain.csproj",
+        "projectName": "Space.Lion.Domain",
+        "projectPath": "/Users/omi/Documents/School/3610/Labs/Lab4/project-space-lion-api/backend/Space.Lion.Domain/Space.Lion.Domain.csproj",
+        "packagesPath": "/Users/omi/.nuget/packages/",
+        "outputPath": "/Users/omi/Documents/School/3610/Labs/Lab4/project-space-lion-api/backend/Space.Lion.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/omi/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
