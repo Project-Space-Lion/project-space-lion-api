@@ -434,6 +434,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
         "dependencies": {
+          "Microsoft.EntityFrameworkCore.Sqlite": "5.0.5",
           "Space.Lion.Domain": "1.0.0"
         },
         "compile": {
