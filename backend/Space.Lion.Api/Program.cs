@@ -8,6 +8,8 @@ using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.DependencyInjection;
 using Space.Lion.Data;
+//using Microsoft.OpenApi.Writers;
+
 
 namespace Space.Lion.Api
 {
@@ -32,7 +34,7 @@ namespace Space.Lion.Api
         {
             using (var scopre = host.Services.CreateScope())
             {
-                var services = Scope.ServiceProvider;
+                var services = scopre.ServiceProvider;
                 var logger = services.GetRequiredService<ILogger<Program>>();
                 try
                 {
