@@ -32,8 +32,6 @@ namespace Space.Lion.Api.Controllers
         [HttpGet("{id:int}")]
         public IActionResult GetItem(int id)
         {
-            //var item = new Item("Shirt", "Ohio State shirt.", "Nike", 29.99m);
-            //item.Id = id;
 
             	var item = _db.Items.Find(id);
                 if (item == null)
@@ -41,22 +39,28 @@ namespace Space.Lion.Api.Controllers
                     return NotFound();
                     }
                     return Ok();
-
-            //return Ok(_db.Items.Find(id));
         }
 
         [HttpPost]
         public IActionResult Post(Item item)
         {
-            return Created("/catalog/42", item);
+            	_db.Items.Add(item);
+                _db.SaveChanges();
+                return Created($"/catalog/{item.Id}", item);
+
         }
 
         [HttpPost("{id:int}/ratings")]
         public IActionResult PostRating(int id, [FromBody] Rating rating)
         {
-            var item = new Item("Shirt", "Ohio State shirt.", "Nike", 29.99m);
-            item.Id = id;
+            var item = _db.Items.Find(id);
+            if (item == null)
+            {
+                return NotFound();
+            }
+
             item.AddRating(rating);
+            _db.SaveChanges();
 
             return Ok(item);
         }
