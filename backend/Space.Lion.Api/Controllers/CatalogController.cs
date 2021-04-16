@@ -1,4 +1,5 @@
 using Microsoft.AspNetCore.Mvc;
+using Space.Lion.Data;
 using Space.Lion.Domain.Catalog;
 using System.Collections.Generic;
 
@@ -9,6 +10,12 @@ namespace Space.Lion.Api.Controllers
     [Route("[controller]")]
     public class CatalogController : ControllerBase
     {
+        private readonly StoreContext _db;
+        public CatalogController(StoreContext db)
+        {
+            _db = db;
+        }
+
         [HttpGet]
         public IActionResult GetItems()
         {
@@ -19,7 +26,7 @@ namespace Space.Lion.Api.Controllers
 
             };
 
-            return Ok(items);
+            return Ok(_db.Items);
         }
 
         [HttpGet("{id:int}")]
