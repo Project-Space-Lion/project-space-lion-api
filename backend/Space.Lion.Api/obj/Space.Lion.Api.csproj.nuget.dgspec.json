@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\matt2\\OneDrive\\Desktop\\repos\\project-space-lion-api\\backend\\Space.Lion.Api\\Space.Lion.Api.csproj": {}
+    "/Users/omi/Documents/School/3610/Labs/Lab4/project-space-lion-api/backend/Space.Lion.Api/Space.Lion.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\matt2\\OneDrive\\Desktop\\repos\\project-space-lion-api\\backend\\Space.Lion.Api\\Space.Lion.Api.csproj": {
+    "/Users/omi/Documents/School/3610/Labs/Lab4/project-space-lion-api/backend/Space.Lion.Api/Space.Lion.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\matt2\\OneDrive\\Desktop\\repos\\project-space-lion-api\\backend\\Space.Lion.Api\\Space.Lion.Api.csproj",
+        "projectUniqueName": "/Users/omi/Documents/School/3610/Labs/Lab4/project-space-lion-api/backend/Space.Lion.Api/Space.Lion.Api.csproj",
         "projectName": "Space.Lion.Api",
-        "projectPath": "C:\\Users\\matt2\\OneDrive\\Desktop\\repos\\project-space-lion-api\\backend\\Space.Lion.Api\\Space.Lion.Api.csproj",
-        "packagesPath": "C:\\Users\\matt2\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\matt2\\OneDrive\\Desktop\\repos\\project-space-lion-api\\backend\\Space.Lion.Api\\obj\\",
+        "projectPath": "/Users/omi/Documents/School/3610/Labs/Lab4/project-space-lion-api/backend/Space.Lion.Api/Space.Lion.Api.csproj",
+        "packagesPath": "/Users/omi/.nuget/packages/",
+        "outputPath": "/Users/omi/Documents/School/3610/Labs/Lab4/project-space-lion-api/backend/Space.Lion.Api/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\matt2\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/Users/omi/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -26,8 +26,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\matt2\\OneDrive\\Desktop\\repos\\project-space-lion-api\\backend\\Space.Lion.Domain\\Space.Lion.Domain.csproj": {
-                "projectPath": "C:\\Users\\matt2\\OneDrive\\Desktop\\repos\\project-space-lion-api\\backend\\Space.Lion.Domain\\Space.Lion.Domain.csproj"
+              "/Users/omi/Documents/School/3610/Labs/Lab4/project-space-lion-api/backend/Space.Lion.Data/Space.Lion.Data.csproj": {
+                "projectPath": "/Users/omi/Documents/School/3610/Labs/Lab4/project-space-lion-api/backend/Space.Lion.Data/Space.Lion.Data.csproj"
+              },
+              "/Users/omi/Documents/School/3610/Labs/Lab4/project-space-lion-api/backend/Space.Lion.Domain/Space.Lion.Domain.csproj": {
+                "projectPath": "/Users/omi/Documents/School/3610/Labs/Lab4/project-space-lion-api/backend/Space.Lion.Domain/Space.Lion.Domain.csproj"
               }
             }
           }
@@ -65,21 +68,77 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.201/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\matt2\\OneDrive\\Desktop\\repos\\project-space-lion-api\\backend\\Space.Lion.Domain\\Space.Lion.Domain.csproj": {
+    "/Users/omi/Documents/School/3610/Labs/Lab4/project-space-lion-api/backend/Space.Lion.Data/Space.Lion.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\matt2\\OneDrive\\Desktop\\repos\\project-space-lion-api\\backend\\Space.Lion.Domain\\Space.Lion.Domain.csproj",
-        "projectName": "Space.Lion.Domain",
-        "projectPath": "C:\\Users\\matt2\\OneDrive\\Desktop\\repos\\project-space-lion-api\\backend\\Space.Lion.Domain\\Space.Lion.Domain.csproj",
-        "packagesPath": "C:\\Users\\matt2\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\matt2\\OneDrive\\Desktop\\repos\\project-space-lion-api\\backend\\Space.Lion.Domain\\obj\\",
+        "projectUniqueName": "/Users/omi/Documents/School/3610/Labs/Lab4/project-space-lion-api/backend/Space.Lion.Data/Space.Lion.Data.csproj",
+        "projectName": "Space.Lion.Data",
+        "projectPath": "/Users/omi/Documents/School/3610/Labs/Lab4/project-space-lion-api/backend/Space.Lion.Data/Space.Lion.Data.csproj",
+        "packagesPath": "/Users/omi/.nuget/packages/",
+        "outputPath": "/Users/omi/Documents/School/3610/Labs/Lab4/project-space-lion-api/backend/Space.Lion.Data/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\matt2\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/Users/omi/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/Users/omi/Documents/School/3610/Labs/Lab4/project-space-lion-api/backend/Space.Lion.Domain/Space.Lion.Domain.csproj": {
+                "projectPath": "/Users/omi/Documents/School/3610/Labs/Lab4/project-space-lion-api/backend/Space.Lion.Domain/Space.Lion.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/omi/Documents/School/3610/Labs/Lab4/project-space-lion-api/backend/Space.Lion.Domain/Space.Lion.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/omi/Documents/School/3610/Labs/Lab4/project-space-lion-api/backend/Space.Lion.Domain/Space.Lion.Domain.csproj",
+        "projectName": "Space.Lion.Domain",
+        "projectPath": "/Users/omi/Documents/School/3610/Labs/Lab4/project-space-lion-api/backend/Space.Lion.Domain/Space.Lion.Domain.csproj",
+        "packagesPath": "/Users/omi/.nuget/packages/",
+        "outputPath": "/Users/omi/Documents/School/3610/Labs/Lab4/project-space-lion-api/backend/Space.Lion.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/omi/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -117,7 +176,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.201/RuntimeIdentifierGraph.json"
         }
       }
     }

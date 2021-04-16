@@ -1,0 +1,15 @@
+/Users/omi/Documents/School/3610/Labs/Lab4/project-space-lion-api/backend/Space.Lion.Data/bin/Debug/net5.0/Space.Lion.Data.deps.json
+/Users/omi/Documents/School/3610/Labs/Lab4/project-space-lion-api/backend/Space.Lion.Data/bin/Debug/net5.0/Space.Lion.Data.dll
+/Users/omi/Documents/School/3610/Labs/Lab4/project-space-lion-api/backend/Space.Lion.Data/bin/Debug/net5.0/ref/Space.Lion.Data.dll
+/Users/omi/Documents/School/3610/Labs/Lab4/project-space-lion-api/backend/Space.Lion.Data/bin/Debug/net5.0/Space.Lion.Data.pdb
+/Users/omi/Documents/School/3610/Labs/Lab4/project-space-lion-api/backend/Space.Lion.Data/bin/Debug/net5.0/Space.Lion.Domain.dll
+/Users/omi/Documents/School/3610/Labs/Lab4/project-space-lion-api/backend/Space.Lion.Data/bin/Debug/net5.0/Space.Lion.Domain.pdb
+/Users/omi/Documents/School/3610/Labs/Lab4/project-space-lion-api/backend/Space.Lion.Data/obj/Debug/net5.0/Space.Lion.Data.csprojAssemblyReference.cache
+/Users/omi/Documents/School/3610/Labs/Lab4/project-space-lion-api/backend/Space.Lion.Data/obj/Debug/net5.0/Space.Lion.Data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/omi/Documents/School/3610/Labs/Lab4/project-space-lion-api/backend/Space.Lion.Data/obj/Debug/net5.0/Space.Lion.Data.AssemblyInfoInputs.cache
+/Users/omi/Documents/School/3610/Labs/Lab4/project-space-lion-api/backend/Space.Lion.Data/obj/Debug/net5.0/Space.Lion.Data.AssemblyInfo.cs
+/Users/omi/Documents/School/3610/Labs/Lab4/project-space-lion-api/backend/Space.Lion.Data/obj/Debug/net5.0/Space.Lion.Data.csproj.CoreCompileInputs.cache
+/Users/omi/Documents/School/3610/Labs/Lab4/project-space-lion-api/backend/Space.Lion.Data/obj/Debug/net5.0/Space.Lion.Data.csproj.CopyComplete
+/Users/omi/Documents/School/3610/Labs/Lab4/project-space-lion-api/backend/Space.Lion.Data/obj/Debug/net5.0/Space.Lion.Data.dll
+/Users/omi/Documents/School/3610/Labs/Lab4/project-space-lion-api/backend/Space.Lion.Data/obj/Debug/net5.0/ref/Space.Lion.Data.dll
+/Users/omi/Documents/School/3610/Labs/Lab4/project-space-lion-api/backend/Space.Lion.Data/obj/Debug/net5.0/Space.Lion.Data.pdb

@@ -33,6 +33,7 @@
     ".NETCoreApp,Version=v5.0": {
       "Space.Lion.Api/1.0.0": {
         "dependencies": {
+          "Space.Lion.Data": "1.0.0",
           "Space.Lion.Domain": "1.0.0",
           "Swashbuckle.AspNetCore": "5.6.3",
           "Microsoft.AspNetCore.Antiforgery": "5.0.0.0",
@@ -383,6 +384,17 @@
         },
         "compile": {
           "lib/netcoreapp3.0/Swashbuckle.AspNetCore.SwaggerUI.dll": {}
+        }
+      },
+      "Space.Lion.Data/1.0.0": {
+        "dependencies": {
+          "Space.Lion.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Space.Lion.Data.dll": {}
+        },
+        "compile": {
+          "Space.Lion.Data.dll": {}
         }
       },
       "Space.Lion.Domain/1.0.0": {
@@ -2140,6 +2152,11 @@
       "sha512": "sha512-BPvcPxQRMsYZ3HnYmGKRWDwX4Wo29WHh14Q6B10BB8Yfbbcza+agOC2UrBFA1EuaZuOsFLbp6E2+mqVNF/Je8A==",
       "path": "swashbuckle.aspnetcore.swaggerui/5.6.3",
       "hashPath": "swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+    },
+    "Space.Lion.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     },
     "Space.Lion.Domain/1.0.0": {
       "type": "project",

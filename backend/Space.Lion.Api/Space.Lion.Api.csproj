@@ -10,6 +10,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Space.Lion.Domain\Space.Lion.Domain.csproj" />
+    <ProjectReference Include="..\Space.Lion.Data\Space.Lion.Data.csproj" />
   </ItemGroup>
 
 </Project>
