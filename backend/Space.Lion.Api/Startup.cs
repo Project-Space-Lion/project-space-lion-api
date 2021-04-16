@@ -11,6 +11,9 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using Microsoft.OpenApi.Models;
+using Space.Lion.Data;
+using Microsoft.EntityFrameworkCore;
+
 
 namespace Space.Lion.Api
 {
@@ -26,6 +29,7 @@ namespace Space.Lion.Api
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            services.AddDbContext<StoreContext>(opt => opt.UseSqlite(Configuration.GetConnectionString("LocalDb"), b => b.MigrationsAssembly("Space.Lion.Api")));
 
             services.AddControllers();
             services.AddSwaggerGen(c =>
