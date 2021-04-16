@@ -2,6 +2,11 @@ using Microsoft.AspNetCore.Mvc;
 using Space.Lion.Data;
 using Space.Lion.Domain.Catalog;
 using System.Collections.Generic;
+using System.Data;
+using Microsoft.EntityFrameworkCore;
+
+
+
 
 
 namespace Space.Lion.Api.Controllers 
@@ -68,12 +73,34 @@ namespace Space.Lion.Api.Controllers
         [HttpPut("{id:int}")]
         public IActionResult PutItem(int id, [FromBody] Item item)
         {
-            return Ok();
+            if (id != item.Id)
+            {
+                return BadRequest();
+            }
+
+            if (_db.Items.Find(id) == null)
+            {
+                return NotFound();
+            }
+
+            _db.Entry(item).State = EntityState.Modified;
+            _db.SaveChanges();
+
+            return NoContent();
         }
     
         [HttpDelete]
         public IActionResult DeleteItem(int id)
         {
+            var item = _db.Items.Find(id);
+            if (item == null)
+            {
+                return NotFound();
+            }
+
+            _db.Items.Remove(item);
+            _db.SaveChanges();
+
             return Ok();
         }
     }
