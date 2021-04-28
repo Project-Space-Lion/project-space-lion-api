@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Space.Lion.Domain", "Space.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Space.Lion.Data", "Space.Lion.Data\Space.Lion.Data.csproj", "{5667360B-B464-4890-936D-DE6B3FFE6AF9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Space.Lion.Domain.Tests", "Space.Lion.Domain.Tests\Space.Lion.Domain.Tests.csproj", "{F278AC64-1CE0-421F-BBF2-3E684A81718E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -58,5 +60,17 @@ Global
 		{5667360B-B464-4890-936D-DE6B3FFE6AF9}.Release|x64.Build.0 = Release|Any CPU
 		{5667360B-B464-4890-936D-DE6B3FFE6AF9}.Release|x86.ActiveCfg = Release|Any CPU
 		{5667360B-B464-4890-936D-DE6B3FFE6AF9}.Release|x86.Build.0 = Release|Any CPU
+		{F278AC64-1CE0-421F-BBF2-3E684A81718E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F278AC64-1CE0-421F-BBF2-3E684A81718E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F278AC64-1CE0-421F-BBF2-3E684A81718E}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{F278AC64-1CE0-421F-BBF2-3E684A81718E}.Debug|x64.Build.0 = Debug|Any CPU
+		{F278AC64-1CE0-421F-BBF2-3E684A81718E}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{F278AC64-1CE0-421F-BBF2-3E684A81718E}.Debug|x86.Build.0 = Debug|Any CPU
+		{F278AC64-1CE0-421F-BBF2-3E684A81718E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F278AC64-1CE0-421F-BBF2-3E684A81718E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F278AC64-1CE0-421F-BBF2-3E684A81718E}.Release|x64.ActiveCfg = Release|Any CPU
+		{F278AC64-1CE0-421F-BBF2-3E684A81718E}.Release|x64.Build.0 = Release|Any CPU
+		{F278AC64-1CE0-421F-BBF2-3E684A81718E}.Release|x86.ActiveCfg = Release|Any CPU
+		{F278AC64-1CE0-421F-BBF2-3E684A81718E}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

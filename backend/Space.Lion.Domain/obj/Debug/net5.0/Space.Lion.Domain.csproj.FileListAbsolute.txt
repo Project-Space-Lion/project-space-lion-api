@@ -34,3 +34,15 @@ C:/Users/matt2/OneDrive/Desktop/repos/project-space-lion-api/backend/Space.Lion.
 C:/Users/matt2/OneDrive/Desktop/repos/project-space-lion-api/backend/Space.Lion.Domain/obj/Debug/net5.0/Space.Lion.Domain.dll
 C:/Users/matt2/OneDrive/Desktop/repos/project-space-lion-api/backend/Space.Lion.Domain/obj/Debug/net5.0/ref/Space.Lion.Domain.dll
 C:/Users/matt2/OneDrive/Desktop/repos/project-space-lion-api/backend/Space.Lion.Domain/obj/Debug/net5.0/Space.Lion.Domain.pdb
+/Users/sydneymathias/Desktop/project-space-lion-api-3/backend/Space.Lion.Domain/bin/Debug/net5.0/Space.Lion.Domain.deps.json
+/Users/sydneymathias/Desktop/project-space-lion-api-3/backend/Space.Lion.Domain/bin/Debug/net5.0/Space.Lion.Domain.dll
+/Users/sydneymathias/Desktop/project-space-lion-api-3/backend/Space.Lion.Domain/bin/Debug/net5.0/ref/Space.Lion.Domain.dll
+/Users/sydneymathias/Desktop/project-space-lion-api-3/backend/Space.Lion.Domain/bin/Debug/net5.0/Space.Lion.Domain.pdb
+/Users/sydneymathias/Desktop/project-space-lion-api-3/backend/Space.Lion.Domain/obj/Debug/net5.0/Space.Lion.Domain.csprojAssemblyReference.cache
+/Users/sydneymathias/Desktop/project-space-lion-api-3/backend/Space.Lion.Domain/obj/Debug/net5.0/Space.Lion.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sydneymathias/Desktop/project-space-lion-api-3/backend/Space.Lion.Domain/obj/Debug/net5.0/Space.Lion.Domain.AssemblyInfoInputs.cache
+/Users/sydneymathias/Desktop/project-space-lion-api-3/backend/Space.Lion.Domain/obj/Debug/net5.0/Space.Lion.Domain.AssemblyInfo.cs
+/Users/sydneymathias/Desktop/project-space-lion-api-3/backend/Space.Lion.Domain/obj/Debug/net5.0/Space.Lion.Domain.csproj.CoreCompileInputs.cache
+/Users/sydneymathias/Desktop/project-space-lion-api-3/backend/Space.Lion.Domain/obj/Debug/net5.0/Space.Lion.Domain.dll
+/Users/sydneymathias/Desktop/project-space-lion-api-3/backend/Space.Lion.Domain/obj/Debug/net5.0/ref/Space.Lion.Domain.dll
+/Users/sydneymathias/Desktop/project-space-lion-api-3/backend/Space.Lion.Domain/obj/Debug/net5.0/Space.Lion.Domain.pdb
