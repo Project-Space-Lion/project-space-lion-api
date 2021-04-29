@@ -1,3 +1,4 @@
+using System;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Space.Lion.Domain.Catalog;
 
@@ -20,7 +21,7 @@ namespace Space.Lion.Domain.Tests
         [ExpectedException(typeof(ArgumentException))]
         public void Create_With_Bad_Start_Throws_Error()
         {
-            var rating = new rating (0, "Name", "Review");
+            var rating = new Rating (0, "Name", "Review");
         }
     }
 }

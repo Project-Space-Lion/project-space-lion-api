@@ -1,0 +1,301 @@
+{
+  "Space.Lion.Domain.dll": {
+    "/Users/omi/Documents/School/3610/Labs/Lab4/project-space-lion-api/backend/Space.Lion.Domain/Orders/OrderItem.cs": {
+      "SPace.Lion.Domain.Orders.OrderItem": {
+        "System.Int32 SPace.Lion.Domain.Orders.OrderItem::get_Id()": {
+          "Lines": {
+            "7": 0
+          },
+          "Branches": []
+        },
+        "Space.Lion.Domain.Catalog.Item SPace.Lion.Domain.Orders.OrderItem::get_Item()": {
+          "Lines": {
+            "8": 0
+          },
+          "Branches": []
+        },
+        "System.Int32 SPace.Lion.Domain.Orders.OrderItem::get_Quantity()": {
+          "Lines": {
+            "9": 0
+          },
+          "Branches": []
+        },
+        "System.Decimal SPace.Lion.Domain.Orders.OrderItem::get_Price()": {
+          "Lines": {
+            "10": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "/Users/omi/Documents/School/3610/Labs/Lab4/project-space-lion-api/backend/Space.Lion.Domain/Orders/Order.cs": {
+      "Space.Lion.Domain.Orders.Order": {
+        "System.Int32 Space.Lion.Domain.Orders.Order::get_Id()": {
+          "Lines": {
+            "10": 0
+          },
+          "Branches": []
+        },
+        "System.Collections.Generic.List`1<SPace.Lion.Domain.Orders.OrderItem> Space.Lion.Domain.Orders.Order::get_Items()": {
+          "Lines": {
+            "11": 0
+          },
+          "Branches": []
+        },
+        "System.DateTime Space.Lion.Domain.Orders.Order::get_CreatedDate()": {
+          "Lines": {
+            "12": 0
+          },
+          "Branches": []
+        },
+        "System.Decimal Space.Lion.Domain.Orders.Order::get_TotalPrice()": {
+          "Lines": {
+            "13": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "/Users/omi/Documents/School/3610/Labs/Lab4/project-space-lion-api/backend/Space.Lion.Domain/Catalog/Item.cs": {
+      "Space.Lion.Domain.Catalog.Item": {
+        "System.Int32 Space.Lion.Domain.Catalog.Item::get_Id()": {
+          "Lines": {
+            "8": 0
+          },
+          "Branches": []
+        },
+        "System.String Space.Lion.Domain.Catalog.Item::get_Name()": {
+          "Lines": {
+            "9": 0
+          },
+          "Branches": []
+        },
+        "System.String Space.Lion.Domain.Catalog.Item::get_Description()": {
+          "Lines": {
+            "10": 0
+          },
+          "Branches": []
+        },
+        "System.String Space.Lion.Domain.Catalog.Item::get_Brand()": {
+          "Lines": {
+            "11": 0
+          },
+          "Branches": []
+        },
+        "System.Decimal Space.Lion.Domain.Catalog.Item::get_Price()": {
+          "Lines": {
+            "12": 0
+          },
+          "Branches": []
+        },
+        "System.Collections.Generic.List`1<Space.Lion.Domain.Catalog.Rating> Space.Lion.Domain.Catalog.Item::get_Ratings()": {
+          "Lines": {
+            "13": 0
+          },
+          "Branches": []
+        },
+        "System.Void Space.Lion.Domain.Catalog.Item::AddRating(Space.Lion.Domain.Catalog.Rating)": {
+          "Lines": {
+            "16": 0,
+            "17": 0,
+            "18": 0
+          },
+          "Branches": []
+        },
+        "System.Void Space.Lion.Domain.Catalog.Item::.ctor(System.String,System.String,System.String,System.Decimal)": {
+          "Lines": {
+            "20": 0,
+            "21": 0,
+            "22": 0,
+            "23": 0,
+            "27": 0,
+            "28": 0,
+            "31": 0,
+            "32": 0,
+            "35": 0,
+            "36": 0,
+            "39": 0,
+            "40": 0,
+            "41": 0,
+            "42": 0,
+            "43": 0
+          },
+          "Branches": [
+            {
+              "Line": 22,
+              "Offset": 16,
+              "EndOffset": 18,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 22,
+              "Offset": 16,
+              "EndOffset": 30,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 27,
+              "Offset": 38,
+              "EndOffset": 40,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 27,
+              "Offset": 38,
+              "EndOffset": 52,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            },
+            {
+              "Line": 31,
+              "Offset": 60,
+              "EndOffset": 62,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 0
+            },
+            {
+              "Line": 31,
+              "Offset": 60,
+              "EndOffset": 74,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 0
+            },
+            {
+              "Line": 35,
+              "Offset": 91,
+              "EndOffset": 93,
+              "Path": 0,
+              "Ordinal": 6,
+              "Hits": 0
+            },
+            {
+              "Line": 35,
+              "Offset": 91,
+              "EndOffset": 116,
+              "Path": 1,
+              "Ordinal": 7,
+              "Hits": 0
+            },
+            {
+              "Line": 35,
+              "Offset": 119,
+              "EndOffset": 121,
+              "Path": 0,
+              "Ordinal": 8,
+              "Hits": 0
+            },
+            {
+              "Line": 35,
+              "Offset": 119,
+              "EndOffset": 133,
+              "Path": 1,
+              "Ordinal": 9,
+              "Hits": 0
+            }
+          ]
+        }
+      }
+    },
+    "/Users/omi/Documents/School/3610/Labs/Lab4/project-space-lion-api/backend/Space.Lion.Domain/Catalog/Rating.cs": {
+      "Space.Lion.Domain.Catalog.Rating": {
+        "System.Int32 Space.Lion.Domain.Catalog.Rating::get_Id()": {
+          "Lines": {
+            "7": 0
+          },
+          "Branches": []
+        },
+        "System.Int32 Space.Lion.Domain.Catalog.Rating::get_Star()": {
+          "Lines": {
+            "8": 2
+          },
+          "Branches": []
+        },
+        "System.String Space.Lion.Domain.Catalog.Rating::get_UserName()": {
+          "Lines": {
+            "9": 2
+          },
+          "Branches": []
+        },
+        "System.String Space.Lion.Domain.Catalog.Rating::get_Review()": {
+          "Lines": {
+            "10": 2
+          },
+          "Branches": []
+        },
+        "System.Void Space.Lion.Domain.Catalog.Rating::.ctor(System.Int32,System.String,System.String)": {
+          "Lines": {
+            "12": 2,
+            "13": 2,
+            "14": 3,
+            "16": 1,
+            "19": 1,
+            "21": 0,
+            "25": 1,
+            "26": 1,
+            "27": 1,
+            "28": 1
+          },
+          "Branches": [
+            {
+              "Line": 14,
+              "Offset": 10,
+              "EndOffset": 12,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 1
+            },
+            {
+              "Line": 14,
+              "Offset": 10,
+              "EndOffset": 18,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 1
+            },
+            {
+              "Line": 14,
+              "Offset": 21,
+              "EndOffset": 23,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 1
+            },
+            {
+              "Line": 14,
+              "Offset": 21,
+              "EndOffset": 35,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 1
+            },
+            {
+              "Line": 19,
+              "Offset": 43,
+              "EndOffset": 45,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 0
+            },
+            {
+              "Line": 19,
+              "Offset": 43,
+              "EndOffset": 57,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 1
+            }
+          ]
+        }
+      }
+    }
+  }
+}

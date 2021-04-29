@@ -953,19 +953,19 @@
     ]
   },
   "packageFolders": {
-    "/Users/sydneymathias/.nuget/packages/": {}
+    "/Users/omi/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/sydneymathias/Desktop/project-space-lion-api-3/backend/Space.Lion.Data/Space.Lion.Data.csproj",
+      "projectUniqueName": "/Users/omi/Documents/School/3610/Labs/Lab4/project-space-lion-api/backend/Space.Lion.Data/Space.Lion.Data.csproj",
       "projectName": "Space.Lion.Data",
-      "projectPath": "/Users/sydneymathias/Desktop/project-space-lion-api-3/backend/Space.Lion.Data/Space.Lion.Data.csproj",
-      "packagesPath": "/Users/sydneymathias/.nuget/packages/",
-      "outputPath": "/Users/sydneymathias/Desktop/project-space-lion-api-3/backend/Space.Lion.Data/obj/",
+      "projectPath": "/Users/omi/Documents/School/3610/Labs/Lab4/project-space-lion-api/backend/Space.Lion.Data/Space.Lion.Data.csproj",
+      "packagesPath": "/Users/omi/.nuget/packages/",
+      "outputPath": "/Users/omi/Documents/School/3610/Labs/Lab4/project-space-lion-api/backend/Space.Lion.Data/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/sydneymathias/.nuget/NuGet/NuGet.Config"
+        "/Users/omi/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
@@ -977,8 +977,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "/Users/sydneymathias/Desktop/project-space-lion-api-3/backend/Space.Lion.Domain/Space.Lion.Domain.csproj": {
-              "projectPath": "/Users/sydneymathias/Desktop/project-space-lion-api-3/backend/Space.Lion.Domain/Space.Lion.Domain.csproj"
+            "/Users/omi/Documents/School/3610/Labs/Lab4/project-space-lion-api/backend/Space.Lion.Domain/Space.Lion.Domain.csproj": {
+              "projectPath": "/Users/omi/Documents/School/3610/Labs/Lab4/project-space-lion-api/backend/Space.Lion.Domain/Space.Lion.Domain.csproj"
             }
           }
         }
@@ -1013,7 +1013,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.103/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.201/RuntimeIdentifierGraph.json"
       }
     }
   }
