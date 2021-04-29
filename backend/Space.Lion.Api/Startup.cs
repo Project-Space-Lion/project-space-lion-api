@@ -30,6 +30,13 @@ namespace Space.Lion.Api
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddDbContext<StoreContext>(opt => opt.UseSqlite(Configuration.GetConnectionString("LocalDb"), b => b.MigrationsAssembly("Space.Lion.Api")));
+            services.AddCors(options =>
+            {
+            	options.AddDefaultPolicy(builder =>
+        	{
+        		builder.WithOrigins("*");
+        	});
+        });            
 
             services.AddControllers();
             services.AddSwaggerGen(c =>
@@ -49,6 +56,8 @@ namespace Space.Lion.Api
             }
 
             app.UseHttpsRedirection();
+
+            app.UseCors();
 
             app.UseRouting();
 
