@@ -66,25 +66,25 @@
         },
         "System.String Space.Lion.Domain.Catalog.Item::get_Name()": {
           "Lines": {
-            "9": 0
+            "9": 3
           },
           "Branches": []
         },
         "System.String Space.Lion.Domain.Catalog.Item::get_Description()": {
           "Lines": {
-            "10": 0
+            "10": 3
           },
           "Branches": []
         },
         "System.String Space.Lion.Domain.Catalog.Item::get_Brand()": {
           "Lines": {
-            "11": 0
+            "11": 3
           },
           "Branches": []
         },
         "System.Decimal Space.Lion.Domain.Catalog.Item::get_Price()": {
           "Lines": {
-            "12": 0
+            "12": 3
           },
           "Branches": []
         },
@@ -104,21 +104,21 @@
         },
         "System.Void Space.Lion.Domain.Catalog.Item::.ctor(System.String,System.String,System.String,System.Decimal)": {
           "Lines": {
-            "20": 0,
-            "21": 0,
-            "22": 0,
+            "20": 2,
+            "21": 2,
+            "22": 2,
             "23": 0,
-            "27": 0,
+            "27": 2,
             "28": 0,
-            "31": 0,
+            "31": 2,
             "32": 0,
-            "35": 0,
+            "35": 2,
             "36": 0,
-            "39": 0,
-            "40": 0,
-            "41": 0,
-            "42": 0,
-            "43": 0
+            "39": 2,
+            "40": 2,
+            "41": 2,
+            "42": 2,
+            "43": 2
           },
           "Branches": [
             {
@@ -135,7 +135,7 @@
               "EndOffset": 30,
               "Path": 1,
               "Ordinal": 1,
-              "Hits": 0
+              "Hits": 2
             },
             {
               "Line": 27,
@@ -151,7 +151,7 @@
               "EndOffset": 52,
               "Path": 1,
               "Ordinal": 3,
-              "Hits": 0
+              "Hits": 2
             },
             {
               "Line": 31,
@@ -167,7 +167,7 @@
               "EndOffset": 74,
               "Path": 1,
               "Ordinal": 5,
-              "Hits": 0
+              "Hits": 2
             },
             {
               "Line": 35,
@@ -175,7 +175,7 @@
               "EndOffset": 93,
               "Path": 0,
               "Ordinal": 6,
-              "Hits": 0
+              "Hits": 2
             },
             {
               "Line": 35,
@@ -199,7 +199,7 @@
               "EndOffset": 133,
               "Path": 1,
               "Ordinal": 9,
-              "Hits": 0
+              "Hits": 2
             }
           ]
         }
@@ -215,34 +215,34 @@
         },
         "System.Int32 Space.Lion.Domain.Catalog.Rating::get_Star()": {
           "Lines": {
-            "8": 2
+            "8": 3
           },
           "Branches": []
         },
         "System.String Space.Lion.Domain.Catalog.Rating::get_UserName()": {
           "Lines": {
-            "9": 2
+            "9": 3
           },
           "Branches": []
         },
         "System.String Space.Lion.Domain.Catalog.Rating::get_Review()": {
           "Lines": {
-            "10": 2
+            "10": 3
           },
           "Branches": []
         },
         "System.Void Space.Lion.Domain.Catalog.Rating::.ctor(System.Int32,System.String,System.String)": {
           "Lines": {
-            "12": 2,
-            "13": 2,
-            "14": 3,
+            "12": 3,
+            "13": 3,
+            "14": 4,
             "16": 1,
-            "19": 1,
+            "19": 2,
             "21": 0,
-            "25": 1,
-            "26": 1,
-            "27": 1,
-            "28": 1
+            "25": 2,
+            "26": 2,
+            "27": 2,
+            "28": 2
           },
           "Branches": [
             {
@@ -251,7 +251,7 @@
               "EndOffset": 12,
               "Path": 0,
               "Ordinal": 0,
-              "Hits": 1
+              "Hits": 2
             },
             {
               "Line": 14,
@@ -275,7 +275,7 @@
               "EndOffset": 35,
               "Path": 1,
               "Ordinal": 3,
-              "Hits": 1
+              "Hits": 2
             },
             {
               "Line": 19,
@@ -291,7 +291,7 @@
               "EndOffset": 57,
               "Path": 1,
               "Ordinal": 5,
-              "Hits": 1
+              "Hits": 2
             }
           ]
         }
